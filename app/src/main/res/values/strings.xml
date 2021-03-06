@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ch8-tablet</string>
+    <string name="imgSail">Sailing Image</string>
+    <string name="txtTitle">Sailing Adventures in Hawai</string>
+    <string name="bttnDate">Choose the desired date</string>
+    <string name="TextDescription">A master/detail flow is an interface design concept whereby a list of items ... Upon selection of a message from the master list, the body of the email ... In this mode, the detail screen includes an action bar entry to return to the master list.</string>
+</resources>
